@@ -6,7 +6,7 @@ This icon theme is named `Yuru` after [yaru](https://github.com/ubuntu/yaru), th
 
 This icon theme appears to work in both light & dark mode 
 
-Made with love on Ubuntu MATE 23.04 :heart:
+Made with love on Ubuntu 23.04 :heart:
 
 This project is not to be confused with yuru-mate-icons
 
@@ -22,6 +22,15 @@ This project is not to be confused with yuru-mate-icons
 
 * Open `Tweaks` - you'll need to install `gnome-tweaks` as per your distribution
 
+## issues & contributing
+
+* If something doesn't work or doesn't look right, feel free to file an issue and I'll get to it :smile: 
+* Contributions are more than welcome 
+
+## creating a new variant
+
+* There is probably a better and smarter way of doing this, but I recolored each icon using the `Colorize` command in GIMP with a colorpicked value
+* The folder icons are located in `places` folders in each dimension
 
 ## license 
 
