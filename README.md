@@ -22,9 +22,6 @@ This project is not to be confused with yuru-mate-icons
 
 * Open `Tweaks` - you'll need to install `gnome-tweaks` as per your distribution
 
-### important usage note
-
-Note that you need to keep both variants around as `Yaru MATE Dark`, and consequently `Yuru-MATE-dark` inherit icons from the light variant! 
 
 ## license 
 
